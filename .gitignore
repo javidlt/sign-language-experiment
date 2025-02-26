@@ -2,3 +2,7 @@ venv
 .venv
 ./venv
 ./.venv
+./notebooks/data
+./notebooks/data/*
+./data
+./data/*
