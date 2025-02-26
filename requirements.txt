@@ -1,3 +1,6 @@
 pandas==2.2.3
 matplotlib==3.10.0
 seaborn==0.13.2
+beatifulsoup4==4.12.2
+requests==2.25.1
+lxml==5.3.1
