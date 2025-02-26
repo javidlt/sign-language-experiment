@@ -6,3 +6,5 @@ venv
 ./notebooks/data/*
 ./data
 ./data/*
+notebooks/data
+notebooks/data/*
