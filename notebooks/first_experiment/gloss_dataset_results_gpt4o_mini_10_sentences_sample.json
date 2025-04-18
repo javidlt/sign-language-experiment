@@ -1,0 +1,392 @@
+{
+    "predicted_glosses": {
+        "0": [
+            "MEHR1",
+            "NUR2A",
+            "INHALT3",
+            "AUSTAUSCHEN-KOMMUNIKATION2",
+            "BEIDE2A",
+            "AUFPASSEN1B"
+        ],
+        "1": [
+            "$GEST^",
+            "BRUDER1A*",
+            "BESCHEID1A*",
+            "SCHLIMM3B*",
+            "SP\u00c4TER4"
+        ],
+        "2": [
+            "ICH1",
+            "ALLE3"
+        ],
+        "3": [
+            "ICH2",
+            "EINFACH3",
+            "NICHT3A",
+            "M\u00d6GEN4"
+        ],
+        "4": [
+            "ZUSAMMENHANG1A^",
+            "ICH1",
+            "VERLETZUNG1A",
+            "TRENNEN2*",
+            "WIE-SOZUSAGEN1*"
+        ],
+        "5": [
+            "MEINUNG1A",
+            "STIMMT1B*",
+            "GEH\u00d6REN1^*",
+            "MANNSCHAFT1",
+            "AUS8",
+            "FUSSBALL1A",
+            "SELBS1A"
+        ],
+        "6": [
+            "ICH2",
+            "AUCH1A",
+            "KANN2B",
+            "WICHTIG1*",
+            "GEB\u00c4RDEN1A*"
+        ],
+        "7": [
+            "HOFFEN1A*",
+            "ICH2",
+            "WARUM1*",
+            "RICHTIG1A*",
+            "MANCHMAL1"
+        ],
+        "8": [
+            "SCHWER1A",
+            "MEISTENS1B",
+            "DASSELBE2A",
+            "VERLETZUNG1A",
+            "SCHLIMM3B",
+            "SCHWER1A"
+        ],
+        "9": [
+            "GLAUBEN2A",
+            "UNSICHER1",
+            "WIE-VERGLEICH1A",
+            "ZUSAMMEN-PERSON1",
+            "WISSEN2B"
+        ]
+    },
+    "german_translation": {
+        "0": "Mehr nur Inhalt, Austausch und Kommunikation, beide aufpassen.",
+        "1": "Ich spreche sp\u00e4ter mit meinem Bruder.",
+        "2": "Ich alle.",
+        "3": "Ich mag es nicht einfach.",
+        "4": "Zusammenhang ich Verletzung trennen, wie sozusagen.",
+        "5": "Die Meinung stimmt, es geh\u00f6rt zur Mannschaft aus Bayern M\u00fcnchen.",
+        "6": "Ich kann auch wichtig geb\u00e4rden.",
+        "7": "Ich hoffe, warum ist es manchmal richtig?",
+        "8": "Es ist meistens dasselbe und sehr schlimm, wenn man verletzt ist.",
+        "9": "Ich glaube, ich bin unsicher, wie diese Person zusammenh\u00e4ngt."
+    },
+    "english_translation": {
+        "0": "More just content, exchange and communication, both pay attention.",
+        "1": "I will talk to my brother later.",
+        "2": "I all.",
+        "3": "I do not like it simply.",
+        "4": "Context I injury separate, how to say.",
+        "5": "The opinion is correct; it belongs to the team from Bayern Munich.",
+        "6": "I can also sign important things.",
+        "7": "I hope, why is it sometimes right?",
+        "8": "It is mostly the same and very bad when one is injured.",
+        "9": "I believe I am uncertain about how this person is related."
+    },
+    "expected_glosses": {
+        "0": [
+            "JUNG1*",
+            "AUFPASSEN1B^*",
+            "AUFPASSEN1B^*",
+            "INHALT3*",
+            "INHALT3*",
+            "BEISPIEL1*",
+            "BEISPIEL1*",
+            "GR\u00dcNDEN2",
+            "GR\u00dcNDEN2",
+            "$GEST^",
+            "$GEST^",
+            "REISE1C^",
+            "MACHEN1",
+            "MACHEN1",
+            "MEHR1*",
+            "MEHR1*",
+            "GRUPPE1A*",
+            "GRUPPE1A*",
+            "BEIDE2A*",
+            "BEIDE2A*",
+            "KENNENLERNEN1*",
+            "KENNENLERNEN1*",
+            "AUSTAUSCHEN-KOMMUNIKATION2*",
+            "AUSTAUSCHEN-KOMMUNIKATION2*"
+        ],
+        "1": [
+            "BRUDER1A*",
+            "BRUDER1A*",
+            "BESCHEID1A*",
+            "$GEST^",
+            "$GEST^"
+        ],
+        "2": [
+            "$INDEX1*",
+            "ICH1*"
+        ],
+        "3": [
+            "GRUND4B*",
+            "GRUND4B*",
+            "ICH2",
+            "KEIN1*",
+            "M\u00d6GEN4",
+            "NICHT3A",
+            "SITZEN1A*",
+            "SITZEN1A*",
+            "WIE-VERGLEICH1A",
+            "WIE-VERGLEICH1A",
+            "EINFACH1",
+            "EINFACH1",
+            "EINFACH3",
+            "EINFACH3"
+        ],
+        "4": [
+            "DARUM1*",
+            "DARUM1*",
+            "ICH1",
+            "WIE-SOZUSAGEN1*",
+            "WIE-SOZUSAGEN1*",
+            "VERLETZUNG1A",
+            "VERLETZUNG1A",
+            "$GEST^",
+            "$GEST^",
+            "BEKOMMEN1",
+            "ICH1",
+            "$GEST^",
+            "$GEST^"
+        ],
+        "5": [
+            "MANNSCHAFT1*",
+            "FUSSBALL1A",
+            "FUSSBALL1A",
+            "MANNSCHAFT1",
+            "AUS8",
+            "$ORG-BAYERN-M\u00dcNCHEN1A*",
+            "GEH\u00d6REN1^*",
+            "IM-BLUT-HABEN1A^*",
+            "IM-BLUT-HABEN1A^*",
+            "STIMMT1B*",
+            "STIMMT1B*",
+            "GLEICH8*",
+            "GLEICH8*",
+            "MEINUNG1A",
+            "HANDLUNG2^*",
+            "HANDLUNG2^*"
+        ],
+        "6": [
+            "ICH2",
+            "WICHTIG1*",
+            "WICHTIG1*",
+            "AUCH1A",
+            "CHEF1B",
+            "KANN2B",
+            "KANN2B",
+            "GEB\u00c4RDEN1A*",
+            "GEB\u00c4RDEN1A*"
+        ],
+        "7": [
+            "ICH2",
+            "GEB\u00c4RDEN1A*",
+            "GEB\u00c4RDEN1A*",
+            "HOFFEN1A*",
+            "F\u00d6RDERN2A^*",
+            "F\u00d6RDERN2A^*"
+        ],
+        "8": [
+            "$GEST^",
+            "$GEST^",
+            "$PROD*",
+            "DASSELBE2A",
+            "DASSELBE2A",
+            "$GEST^",
+            "$GEST^"
+        ],
+        "9": [
+            "$INDEX1*",
+            "WISSEN2B^*",
+            "WIE-VERGLEICH1A*",
+            "WIE-VERGLEICH1A*",
+            "GLAUBEN2A*"
+        ]
+    },
+    "image_sequence": {
+        "0": [
+            ".\/data\/1176340\/screenshots_divided\/gloss_797_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_799_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_799_right.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_801_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_801_right.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_803_right.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_803_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_805_right.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_805_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_807_right.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_807_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_809_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_811_right.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_811_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_813_right.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_813_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_815_right.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_815_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_817_right.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_817_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_819_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_819_right.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_821_right.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_821_left.png"
+        ],
+        "1": [
+            ".\/data\/1176340\/screenshots_divided\/gloss_2436_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_2436_right.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_2438_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_2440_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_2440_right.png"
+        ],
+        "2": [
+            ".\/data\/1176340\/screenshots_divided\/gloss_2224_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_2226_left.png"
+        ],
+        "3": [
+            ".\/data\/1176340\/screenshots_divided\/gloss_778_right.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_778_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_780_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_782_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_784_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_786_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_788_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_788_right.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_790_right.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_790_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_792_right.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_792_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_794_right.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_794_left.png"
+        ],
+        "4": [
+            ".\/data\/1176340\/screenshots_divided\/gloss_1482_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_1482_right.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_1484_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_1486_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_1486_right.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_1488_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_1488_right.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_1490_right.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_1490_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_1492_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_1494_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_1496_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_1496_right.png"
+        ],
+        "5": [
+            ".\/data\/1176340\/screenshots_divided\/gloss_3462_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_3464_right.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_3464_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_3466_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_3468_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_3470_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_3472_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_3474_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_3474_right.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_3476_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_3476_right.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_3478_right.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_3478_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_3480_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_3482_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_3482_right.png"
+        ],
+        "6": [
+            ".\/data\/1176340\/screenshots_divided\/gloss_2601_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_2603_right.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_2603_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_2605_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_2607_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_2609_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_2609_right.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_2611_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_2611_right.png"
+        ],
+        "7": [
+            ".\/data\/1176340\/screenshots_divided\/gloss_1592_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_1594_right.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_1594_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_1596_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_1598_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_1598_right.png"
+        ],
+        "8": [
+            ".\/data\/1176340\/screenshots_divided\/gloss_2955_right.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_2955_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_2957_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_2959_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_2959_right.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_2961_right.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_2961_left.png"
+        ],
+        "9": [
+            ".\/data\/1176340\/screenshots_divided\/gloss_605_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_607_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_609_right.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_609_left.png",
+            ".\/data\/1176340\/screenshots_divided\/gloss_611_left.png"
+        ]
+    },
+    "sequence_matcher_accuracy": {
+        "0": 20.8955223881,
+        "1": 60.8695652174,
+        "2": 33.3333333333,
+        "3": 22.5,
+        "4": 36.6666666667,
+        "5": 27.027027027,
+        "6": 44.8275862069,
+        "7": 32.380952381,
+        "8": 42.3728813559,
+        "9": 40.0
+    },
+    "bleu_accuracy": {
+        "0": 0.0,
+        "1": 9.283142786e-153,
+        "2": 0.0,
+        "3": 1.495450763e-230,
+        "4": 3.2372405e-230,
+        "5": 2.535240045e-153,
+        "6": 8.186018806e-230,
+        "7": 1.186217768e-229,
+        "8": 9.853445012e-230,
+        "9": 0.0
+    },
+    "expected_german_english_translation": {
+        "0": "The youth leader, for example, can initiate a trip or encourage different groups to come together more, get to know each other, and exchange ideas.",
+        "1": "My brother said to me, \"Hey, why didn't you tell me that?\"",
+        "2": "I",
+        "3": "The reason was that I did not want to sit around and be bored.",
+        "4": "I burst into tears because I felt hurt.",
+        "5": "We shared the same opinion about the football team Bayern Munich, were excited and had lively discussions about them.",
+        "6": "It is also important to me that my boss can use sign language.",
+        "7": "I gestured with them and hoped to motivate them through this.",
+        "8": "Should I hold back? That would be something similar, I don't want that.",
+        "9": "That was like\/"
+    },
+    "sentence": {
+        "0": "Der Jugendwart kann z.B. initiieren, dass man einen Ausflug macht oder die verschiedenen Gruppen mehr zusammenkommen, sich kennenlernen und austauschen.",
+        "1": "Mein Bruder meinte zu mir: \u201eHey, warum hast du mir das nicht gesagt?\u201c",
+        "2": "Ich\/",
+        "3": "Der Grund war der, dass ich nicht rumsitzen und \u00f6de sein wollte.",
+        "4": "Ich bin in Tr\u00e4nen ausgebrochen, weil ich mich verletzt gef\u00fchlt habe.",
+        "5": "\u00dcber die Fu\u00dfballmannschaft Bayern M\u00fcnchen teilten wir dieselbe Meinung, waren begeistert und haben lebhaft \u00fcber sie diskutiert.",
+        "6": "Mir ist es auch wichtig, dass mein Chef geb\u00e4rden kann.",
+        "7": "Ich geb\u00e4rdete mit ihnen und hoffte, sie dadurch zu motivieren.",
+        "8": "Soll ich mich zur\u00fcckhalten? Das w\u00e4re so etwas \u00c4hnliches, das will ich nicht.",
+        "9": "Das war wie\/"
+    }
+}
